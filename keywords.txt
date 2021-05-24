@@ -1,0 +1,23 @@
+#######################################
+# Syntax Coloring Map For Psychrometer
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+Psychrometer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getHumidity	KEYWORD2
+calibrate	KEYWORD2
+setP	KEYWORD2
+setPmm	KEYWORD2
+setA	KEYWORD2
+getA	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
