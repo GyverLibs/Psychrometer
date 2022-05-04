@@ -1,3 +1,5 @@
+This is an automatic translation, may be incorrect in some places. See sources and examples!
+
 # Psychrometer
 Library for determining humidity by dry and wet bulb for Arduino
 - The library is not tied to a thermometer, it takes a pure temperature
